@@ -60,5 +60,15 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Allow us to get photos to make meme</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Allow us to click meme like pictures</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Allow us to store your meme&apos;s</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Impact.ttf</string>
+	</array>
 </dict>
 </plist>
